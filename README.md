@@ -1,6 +1,6 @@
-# Xciser
+# Xciser - your fitness buddy
 
-This app is your go to buddy for the gym 🏋️
+This app is your go to companion for the gym 🏋️
 
 
 Looking for exercises for your legs or for your back or for your biceps? 
